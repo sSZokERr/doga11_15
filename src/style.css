@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900,700,500);
+
+input[type = button]{
+    margin-bottom: 10px;
+    width: 10%;
+    position:static;
+    border-radius: 15px;
+    background-color: #191919;
+    color: white;
+}
+input [type = text]{
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #191919;
+    color: #191919;
+}
+body {
+    background-color: #333;
+    color: white;
+    font-family: "Roboto";
+    font-size: 1em;
+}
+.body-text {
+    padding: 0 20px 30px 20px;
+    color: white;
+    text-align: center;
+    line-height: 1.2em;
+}
